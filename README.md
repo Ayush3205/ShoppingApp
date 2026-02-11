@@ -103,3 +103,6 @@ Choose one of these methods:
 - Profile and logout
 
 Tech: Expo, TypeScript, Redux Toolkit, React Navigation, Firebase, EscuelaJS API.
+
+## Drive Link for Video Demo
+- https://drive.google.com/drive/folders/1kk1fSOuFIMt8Ee4bm3sMJ5K3QVZMHMQU?usp=sharing
